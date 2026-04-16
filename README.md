@@ -4,6 +4,7 @@
 **Course:** EEE 4775 – Real-Time Systems  
 **Semester:** Spring 2026  
 -----------------------------------------------------
+# Video Demo: https://www.youtube.com/watch?v=tM3EICOm8MY
 
 # AI Use:
 Asked it to help me come up with names for the park and ride. Also asked for help with themed serial output.
